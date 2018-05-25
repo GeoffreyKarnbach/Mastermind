@@ -1,0 +1,3 @@
+Petit jeu Mastermind
+
+Le code est a ameliore. Je n'ai pas eu le temps. Update au niveau du code viennes.
